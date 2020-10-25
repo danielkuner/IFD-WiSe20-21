@@ -59,7 +59,7 @@ Vielfältige Designmöglichkeiten mit Grafik- und Icon Bibliotheken, um den Prot
 
 ### Content
 
-Von Bilder über Texte bis hin zu Menüstrukturen oder Buttons ist alles möglich
+Von Bilder über Texte, bis hin zu Menüstrukturen oder Buttons ist alles möglich
 
 ## Beispiele von Dribbble
 
