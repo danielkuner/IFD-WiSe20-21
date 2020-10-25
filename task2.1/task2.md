@@ -44,7 +44,7 @@ Axure RP9 ist ein Tool zur Erstellung von interaktiven Webseiten- und App Protot
 * Ein sehr komplettes Tool, mit sehr vielen Möglichkeiten und Freiheiten
 * Simple Prototypen können einfach erstellt werden
 * Je umfangreicher und interaktiver der Prototyp werden soll, desto komplexer wird Axure
-* Bei der Gratis Version nur 30 Tage kostenlos, danach 25 bzw. 42 Euro pro Monat
+* Als Gratis Version nur 30 Tage kostenlos, danach 25 bzw. 42 Euro pro Monat
 * Für Studenten mindestens ein Jahr kostenlos
 
 ## Fidelity
