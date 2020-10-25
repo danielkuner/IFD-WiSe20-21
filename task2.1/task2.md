@@ -36,8 +36,8 @@ Axure RP9 ist ein Tool zur Erstellung von interaktiven Webseiten- und App Protot
 * Webfonts
 * Verschiedene Icon Bibliotheken
 
-![Axure](/images/plattform.png)
-![Werkzeug](/images/werkzeuge.png)
+![Axure](./images/plattform.png)
+![Werkzeug](./images/werkzeuge.png)
 
 ## Komplexität / Grenzen
 
@@ -63,7 +63,7 @@ Von Bilder über Texte bis hin zu Menüstrukturen oder Buttons ist alles möglic
 
 ## Beispiele von Dribbble
 
-![Beispiel1](/images/beispiel1.png)
-![Beispiel2](/images/beispiel2.png)
-![Beispiel3](/images/beispiel3.png)
-![Beispiel4](/images/beispiel4.png)
+![Beispiel1](./images/beispiel1.png)
+![Beispiel2](./images/beispiel2.png)
+![Beispiel3](./images/beispiel3.png)
+![Beispiel4](./images/beispiel4.png)
