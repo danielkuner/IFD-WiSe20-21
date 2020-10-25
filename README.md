@@ -8,4 +8,4 @@
 
 ## Task 2.1
 
-[Prototyping Tool](https://danielkuner.github.io/IFD-WiSe20-21/task2.1/task2.md)
+[Prototyping Tool - Axure](https://danielkuner.github.io/IFD-WiSe20-21/task2.1/task2.md)
