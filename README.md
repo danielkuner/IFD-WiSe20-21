@@ -12,7 +12,7 @@
 
 ## Task 2.2
 
-[GUI DM Intranet](https://danielkuner.github.io/IFD-WiSe20-21/task2.2/task2.pdf)
+[GUI DM Intranet](https://danielkuner.github.io/IFD-WiSe20-21/task2.2/task2.pdf){:target="_blank"}
 
 ## Task 3
 
