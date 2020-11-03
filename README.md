@@ -16,4 +16,4 @@
 
 ## Task 3
 
-[DM Intranet High-Fid Prototype](https://danielkuner.github.io/IFD-WiSe20-21/task3/dashboard.html){:target="_blank"}
+[DM Intranet High-Fid Prototype](https://danielkuner.github.io/IFD-WiSe20-21/task3/dashboard.html)
