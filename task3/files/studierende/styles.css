@@ -1256,7 +1256,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:253px;
+  width:249px;
   height:37px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -1265,7 +1265,7 @@
   -moz-box-shadow:none;
   -webkit-box-shadow:none;
   box-shadow:none;
-  font-family:'Raleway Bold', 'Raleway Regular', 'Raleway', sans-serif;
+  font-family:'Arial Fett', 'Arial Standard', 'Arial', sans-serif;
   font-weight:700;
   font-style:normal;
   color:#000000;
@@ -1275,10 +1275,10 @@
   position:absolute;
   left:16px;
   top:84px;
-  width:253px;
+  width:249px;
   height:37px;
   display:flex;
-  font-family:'Raleway Bold', 'Raleway Regular', 'Raleway', sans-serif;
+  font-family:'Arial Fett', 'Arial Standard', 'Arial', sans-serif;
   font-weight:700;
   font-style:normal;
   color:#000000;
@@ -6737,7 +6737,7 @@
 #u284 {
   border-width:0px;
   position:absolute;
-  left:287px;
+  left:280px;
   top:86px;
   width:33px;
   height:33px;
