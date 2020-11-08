@@ -17,3 +17,9 @@
 ## Task 3
 
 [DM Intranet High-Fid Prototype](https://danielkuner.github.io/IFD-WiSe20-21/task3/dashboard.html)
+
+## Task 4
+
+[VUI Flowchart](https://danielkuner.github.io/IFD-WiSe20-21/task4/vui.pdf)
+
+[VUI Dokumentation](https://danielkuner.github.io/IFD-WiSe20-21/task4/dokumentation.pdf)
