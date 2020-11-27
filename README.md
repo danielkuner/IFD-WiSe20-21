@@ -26,4 +26,4 @@
 
 ## Task 5
 
-[VUI Artyom](https://www.hs-furtwangen.de/~kunerdan/ifd/playground-artyom.html)
+[VUI](https://www.hs-furtwangen.de/~kunerdan/ifd/playground-artyom.html)
