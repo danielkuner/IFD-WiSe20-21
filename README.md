@@ -26,6 +26,6 @@
 
 ## Task 5
 
-[VUI Artyom.js](https://www.hs-furtwangen.de/~kunerdan/ifd/playground-artyom.html)
+[VUI artyom.js](https://www.hs-furtwangen.de/~kunerdan/ifd/playground-artyom.html)
 
 [VUI Screencast](https://danielkuner.github.io/IFD-WiSe20-21/task5/vui.mp4)
