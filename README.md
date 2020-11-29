@@ -28,7 +28,7 @@
 
 [VUI artyom.js](https://www.hs-furtwangen.de/~kunerdan/ifd/playground-artyom.html)
 
-[VUI-Screencast](https://danielkuner.github.io/IFD-WiSe20-21/task5/vui.mp4)
+[VUI Screencast](https://danielkuner.github.io/IFD-WiSe20-21/task5/vui.mp4)
 
 <a href="https://www.hs-furtwangen.de/~kunerdan/ifd/playground-artyom.html" target="_blank">VUI artyom.js</a>
 
