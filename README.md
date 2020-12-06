@@ -29,3 +29,7 @@
 <a href="https://www.hs-furtwangen.de/~kunerdan/ifd/playground-artyom.html" target="_blank">VUI artyom.js</a>
 
 <a href="https://danielkuner.github.io/IFD-WiSe20-21/task5/vui.mp4" target="_blank">VUI Screencast</a>
+
+## Task 6
+
+<a href="https://danielkuner.github.io/IFD-WiSe20-21/task6/cardboard.mp4" target="_blank">Cardboard</a>
