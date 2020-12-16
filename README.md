@@ -33,3 +33,9 @@
 ## Task 6
 
 <a href="https://danielkuner.github.io/IFD-WiSe20-21/task6/cardboard.mp4" target="_blank">Cardboard</a>
+
+## Task 7
+
+<a href="https://danielkuner.github.io/IFD-WiSe20-21/task7/konzept.pdf" target="_blank">Dokumentation</a>
+
+<a href="https://danielkuner.github.io/IFD-WiSe20-21/task7/vr.mp4" target="_blank">Video Konzept</a>
