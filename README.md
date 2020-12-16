@@ -38,4 +38,4 @@
 
 <a href="https://danielkuner.github.io/IFD-WiSe20-21/task7/konzept.pdf" target="_blank">Dokumentation</a>
 
-<a href="https://danielkuner.github.io/IFD-WiSe20-21/task7/vr.mp4" target="_blank">Video Konzept</a>
+<a href="https://drive.google.com/file/d/1CEIZLjL8hplm_FtYh03avJ4eG6cRBRJD/view?usp=sharing" target="_blank">Video Konzept</a>
