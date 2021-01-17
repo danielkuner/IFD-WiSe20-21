@@ -39,3 +39,9 @@
 <a href="https://danielkuner.github.io/IFD-WiSe20-21/task7/konzept.pdf" target="_blank">Dokumentation</a>
 
 <a href="https://drive.google.com/file/d/1CEIZLjL8hplm_FtYh03avJ4eG6cRBRJD/view?usp=sharing" target="_blank">Video Konzept</a>
+
+## Task 8
+
+<a href="https://danielkuner.github.io/IFD-WiSe20-21/task8/konzept.pdf" target="_blank">Komplette Dokumentation</a>
+
+<a href="https://www.youtube.com/watch?v=PMrPGeQ6YkQ&feature=youtu.be&ab_channel=AnastasiaHirt" target="_blank">360° Video</a>
